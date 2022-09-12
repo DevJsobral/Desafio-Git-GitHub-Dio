@@ -1,0 +1,2 @@
+https://www.markdownguide.org/basic-syntax/ link a ser utilizado para Markdown
+Texto Aleatório para mexer com o git e github pela DIO
